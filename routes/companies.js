@@ -1,4 +1,4 @@
-/** routes for the companies */
+/** Routes for the companies */
 
 const express = require("express");
 const slugify = require("slugify");
